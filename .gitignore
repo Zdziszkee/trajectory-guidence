@@ -1,4 +1,6 @@
 .venv
 venv
 .idea
-.vscodeDIAMOND/
+.vscode
+DIAMOND/
+geoguide/
